@@ -1,10 +1,10 @@
 {
-    "date": "2026-08-01",
-    "time": "05:58:17",
+    "date": "2026-08-04",
+    "time": "05:50:06",
     "test": "ncVoters_5M",
     "results": {
-        "train": 1.74,
-        "match": 46.23
+        "train": 1.97,
+        "match": 56.17
     },
     "pcSpecs": {
         "OS": "Linux 6.17.0-1020-azure",
