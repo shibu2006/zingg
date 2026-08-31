@@ -1,10 +1,10 @@
 {
-    "date": "2026-08-28",
-    "time": "11:00:07",
+    "date": "2026-08-31",
+    "time": "05:06:28",
     "test": "febrl_120K",
     "results": {
-        "train": 1.62,
-        "match": 5.57
+        "train": 1.14,
+        "match": 3.24
     },
     "pcSpecs": {
         "OS": "Linux 6.17.0-1022-azure",
